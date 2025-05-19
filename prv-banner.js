@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var banner5StartDate = new Date(currentYear, 4, 19);
     var banner5EndDate = new Date(currentYear, 4, 20);
 
-    var banner6StartDate = new Date(currentYear, 5, 20);
-    var banner6EndDate = new Date(currentYear, 5, 21);
+    var banner6StartDate = new Date(currentYear, 4, 20);
+    var banner6EndDate = new Date(currentYear, 4, 21);
 
     var banner7StartDate = new Date(currentYear, 7, 30);
     var banner7EndDate = new Date(currentYear, 7, 31);
