@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var banner5StartDate = new Date(currentYear, 4, 19);
     var banner5EndDate = new Date(currentYear, 4, 20);
 
-    var banner6StartDate = new Date(currentYear, 6, 15);
-    var banner6EndDate = new Date(currentYear, 6, 16);
+    var banner6StartDate = new Date(currentYear, 5, 20);
+    var banner6EndDate = new Date(currentYear, 5, 21);
 
     var banner7StartDate = new Date(currentYear, 7, 30);
     var banner7EndDate = new Date(currentYear, 7, 31);
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     else if (today >= banner6StartDate && today <= banner6EndDate) {
         document.getElementById('banner6').style.display = 'block';
-        document.getElementById('banner-container').style.background = 'linear-gradient(to right, #e62106 50%, #fff 50%)';
+        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #d40701), linear-gradient(to right, #e62106 50%, #fff 50%)';
     }
     else if (today >= banner7StartDate && today <= banner7EndDate) {
         document.getElementById('banner7').style.display = 'block';
