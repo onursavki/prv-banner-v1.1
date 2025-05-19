@@ -27,8 +27,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var banner8StartDate = new Date(currentYear, 9, 29);
     var banner8EndDate = new Date(currentYear, 9, 30);
 
-    var banner9StartDate = new Date(currentYear, 4, 20);
-    var banner9EndDate = new Date(currentYear, 4, 21);
+    var banner9StartDate = new Date(currentYear, 10, 10);
+    var banner9EndDate = new Date(currentYear, 10, 11);
 
     // Kontroller
     if (today >= banner1StartDate && today <= banner1EndDate) {
