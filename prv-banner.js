@@ -53,7 +53,8 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     else if (today >= banner6StartDate && today <= banner6EndDate) {
         document.getElementById('banner6').style.display = 'block';
-        document.getElementById('banner-container').style.background = `linear-gradient(to right,#ea2421 0%, #dd1106 25%, #d40701 50%, #ffffff 50%, #ffffff 100%)`;
+        document.getElementById('banner-container').style.background = `linear-gradient(to top, #ea2421, #dd1106, #d40701), linear-gradient(to right, rgba(255,255,255,0) 50%, #ffffff 50%)`;
+
     }
     else if (today >= banner7StartDate && today <= banner7EndDate) {
         document.getElementById('banner7').style.display = 'block';
