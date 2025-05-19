@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Kontroller
     if (today >= banner1StartDate && today <= banner1EndDate) {
         document.getElementById('banner1').style.display = 'block';
-        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #d40701)';
+        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #cf0800)';
     }
     else if (today >= banner2StartDate && today <= banner2EndDate) {
         document.getElementById('banner2').style.display = 'block';
@@ -45,11 +45,11 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     else if (today >= banner4StartDate && today <= banner4EndDate) {
         document.getElementById('banner4').style.display = 'block';
-        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #d40701)';
+        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #cf0800)';
     }
     else if (today >= banner5StartDate && today <= banner5EndDate) {
         document.getElementById('banner5').style.display = 'block';
-        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #d40701)';
+        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #cf0800)';
     }
     else if (today >= banner6StartDate && today <= banner6EndDate) {
         document.getElementById('banner6').style.display = 'block';
@@ -57,11 +57,11 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     else if (today >= banner7StartDate && today <= banner7EndDate) {
         document.getElementById('banner7').style.display = 'block';
-        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #d40701)';
+        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #cf0800)';
     }
     else if (today >= banner8StartDate && today <= banner8EndDate) {
         document.getElementById('banner8').style.display = 'block';
-        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #d40701)';
+        document.getElementById('banner-container').style.background = 'linear-gradient(to top, #ea2421, #dd1106, #cf0800)';
     }
     else if (today >= banner9StartDate && today <= banner9EndDate) {
         document.getElementById('banner9').style.display = 'block';
