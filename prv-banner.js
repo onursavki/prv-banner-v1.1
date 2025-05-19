@@ -41,14 +41,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Arka plan renklerini tanımlayın
     var backgroundColors = {
-        'banner1': 'linear-gradient(to top, #ea2421, #dd1106, #d40701)', // 100. Yıl
+        'banner1': '#e62106', // 100. Yıl
         'banner2': '#fd7b7d', // 8 Mart Dünya Kadınlar Günü
         'banner3': '#2a9f9e', // 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı
-        'banner4': 'linear-gradient(to top, #ea2421, #dd1106, #d40701)', // 1 Mayıs Emek ve Dayanışma Günü
-        'banner5': 'linear-gradient(to top, #ea2421, #dd1106, #d40701)', // 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı
+        'banner4': '#e62106', // 1 Mayıs Emek ve Dayanışma Günü
+        'banner5': '#e62106', // 19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı
         'banner6': 'gradient', // 15 Temmuz Demokrasi ve Milli Birlik Günü
-        'banner7': 'linear-gradient(to top, #ea2421, #dd1106, #d40701)', // 30 Ağustos Zafer Bayramı
-        'banner8': 'linear-gradient(to top, #ea2421, #dd1106, #d40701)', // 29 Ekim Cumhuriyet Bayramı
+        'banner7': '#e62106', // 30 Ağustos Zafer Bayramı
+        'banner8': '#e62106', // 29 Ekim Cumhuriyet Bayramı
         'banner9': '#010607'  // 10 Kasım Atatürk'ü Anma Günü
     };
 
