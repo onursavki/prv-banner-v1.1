@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function () {
     var banner2StartDate = new Date(currentYear, 2, 8);
     var banner2EndDate = new Date(currentYear, 2, 9);
 
-    var banner3StartDate = new Date(currentYear, 4, 20);
-    var banner3EndDate = new Date(currentYear, 4, 21);
+    var banner3StartDate = new Date(currentYear, 3, 23);
+    var banner3EndDate = new Date(currentYear, 3, 24);
 
     var banner4StartDate = new Date(currentYear, 4, 1);
     var banner4EndDate = new Date(currentYear, 4, 2);
